@@ -28,9 +28,5 @@
   </a>
 </p>
 
----
 
-<div align="center">
-  <i>“Code, Learn, Repeat — That’s how progress is made.”</i>
-</div>
 
