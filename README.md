@@ -1,6 +1,6 @@
 <p align="center"><a href="https://saimshafique.com"><img width="60%" height="50%" alt="Hello, I'm Anurag. I do open source!" src="./assets/pfp.png" /></a></p>
 
-## 📊 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔
+## &nbsp;
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sx4im&show_icons=true&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true" height="165"/> 
@@ -9,9 +9,7 @@
   <img src="https://streak-stats.demolab.com?user=sx4im&theme=rose_pine&hide_border=true&background=0D1117&ring=9CCFD8&fire=9CCFD8&currStreakLabel=9CCFD8" height="165" /> 
 </div>
 
-
-
-## 📫 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆
+## &nbsp;
 
 <p align="center">
   <a href="mailto:saimshafique.dev@gmail.com">
