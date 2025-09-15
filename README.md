@@ -17,7 +17,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sx4im" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" />
+    <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedinin&logoColor=white&label=LinkedIn" />
   </a>
   &nbsp;
   <a href="https://saimshafique.com" target="_blank">
