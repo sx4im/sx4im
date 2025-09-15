@@ -13,15 +13,15 @@
 
 <p align="center">
   <a href="mailto:saimshafique.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saimshafique.dev%40gmail.com-9926f0?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-saimshafique.dev%40gmail.com-8c9eff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sx4im" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8c9eff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://saimshafique.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9926f0?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8c9eff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
