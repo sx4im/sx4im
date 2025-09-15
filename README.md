@@ -1,4 +1,5 @@
 # Hey, I'm Saim Shafique! 🐧
+<span style="font-family:Comic Sans MS; font-size:20px;">Custom font attempt</span>
 
 **Frontend Developer • Open source developer • Computer Scientist**
 
