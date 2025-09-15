@@ -17,13 +17,12 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sx4im" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" />
   </a>
   &nbsp;
   <a href="https://saimshafique.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8c9eff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
 
 
