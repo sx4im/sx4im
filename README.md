@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Saim Shafique! 🐧
 
-<!--
-**sx4im/sx4im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer • Open source developer • Computer Scientist**
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Henriquehnnm&show_icons=true&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehnnm&layout=compact&theme=rose_pine&bg_color=0D1117&hide_border=true&langs_count=6" height="165"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Henriquehnnm&bg_color=0D1117&color=9CCFD8&line=9CCFD8&point=C9D1D9&area=true&hide_border=true" />
+</div>
+
+
+## Contact
+
+- **Email**: henriquesardinha987@gmail.com
+- **GitHub Issues**: For project-related questions
+
+---
+*"Simplicity is the ultimate sophistication" - someone who definitely didn't use 15 GitHub widgets in their README*
