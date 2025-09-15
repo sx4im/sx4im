@@ -11,7 +11,7 @@
 
 
 
-## 📫 ** Contact Me **
+## 📫 **Contact Me**
 
 <p align="center">
   <a href="mailto:saimshafique.dev@gmail.com">
