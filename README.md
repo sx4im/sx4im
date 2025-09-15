@@ -21,7 +21,7 @@
   </a>
   &nbsp;
   <a href="https://saimshafique.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8c9eff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8c9eff?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
