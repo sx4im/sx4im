@@ -1,6 +1,6 @@
 <p align="center"><a href="https://saimshafique.com"><img width="60%" height="50%" alt="Hello, I'm Anurag. I do open source!" src="./assets/pfp.png" /></a></p>
 
-## &nbsp;
+## 📊 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sx4im&show_icons=true&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true" height="165"/> 
