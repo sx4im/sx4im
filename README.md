@@ -3,7 +3,7 @@
 ## &nbsp;
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sx4im&show_icons=true&rank_icon=github&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=3600" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=sx4im&show_icons=true&rank_icon=percentile&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=3600" height="165">
 
   <img src="https://github-readme-stats.vercel.app/api?username=sx4im&show_icons=true&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true&cache_seconds=3600" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx4im&layout=compact&theme=rose_pine&bg_color=0D1117&hide_border=true&langs_count=6" height="165"/> 
