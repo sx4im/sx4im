@@ -1,6 +1,6 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/pfp.png" /></a></p>
 
-## Stats
+## &#8203;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sx4im&show_icons=true&theme=rose_pine&bg_color=0D1117&hide_border=true&count_private=true" height="165"/>
@@ -10,7 +10,7 @@
   
 </div>
 
-## 📫 Contact Me  
+## &#8203;  
 
 <p align="center">
   <a href="mailto:saimshafique.dev@gmail.com">
