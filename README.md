@@ -5,10 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/certifications-banner.png" alt="Certifications: Oracle AI Foundations Associate, MongoDB Associate Developer, Google AI Essentials" width="600" />
-</p>
-
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=sx4im&show_icons=true&hide_border=true&theme=transparent&title_color=9CCFD8&text_color=FFFFFF&icon_color=F6C177&hide_rank=true" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sx4im&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9CCFD8&text_color=FFFFFF&icon_color=9CCFD8" />
