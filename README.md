@@ -1,24 +1,12 @@
 
-
-
 <p align="center">
   <a href="https://saimshafique.com">
     <img width="80%" alt="Saim Shafique - Full Stack Developer & AI Enthusiast" src="./assets/pfp.png" />
   </a>
 </p>
 
-<p align="left">
-  <a href="YOUR_ORACLE_BADGE_URL" target="_blank">
-    <img src="./assets/oracle-ai-associate.png" height="120" alt="Oracle AI Foundations Associate" />
-  </a>
-
-  <a href="YOUR_MONGODB_BADGE_URL" target="_blank">
-    <img src="./assets/mongodb-associate-developer.png" height="120" alt="MongoDB Associate Developer" />
-  </a>
-
-  <a href="YOUR_GOOGLE_AI_ESSENTIALS_BADGE_URL" target="_blank">
-    <img src="./assets/google-ai-essentials.png" height="120" alt="Google AI Essentials" />
-  </a>
+<p align="center">
+  <img src="./assets/certifications-banner.png" alt="Certifications: Oracle AI Foundations Associate, MongoDB Associate Developer, Google AI Essentials" width="600" />
 </p>
 
 <div align="center">
@@ -30,4 +18,5 @@
 </div>
 
 ---
+
 
