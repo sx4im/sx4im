@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://saimshafique.com">
-    <img width="80%" alt="Saim Shafique - Full Stack Developer & AI Enthusiast" src="./assets/pfp.png" />
+    <img width="80%" alt="Saim Shafique - Full Stack Developer & AI Enthusiast" src="./assets/sign.gif" />
   </a>
 </p>
 
