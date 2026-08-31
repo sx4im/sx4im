@@ -1,4 +1,4 @@
-# saim shafique
+## :)
 
 ai engineer. building with ai. oss developer.
 
@@ -15,9 +15,9 @@ pakistan-based cs student, ai engineer, and open-source developer. i build codin
 
 ## about
 
-tldr; i write eval data, prompt agents to do real engineering work, and build small open-source tools that solve one problem well. no fixed stack; mostly typescript/javascript and python, reaching for next.js or flask depending on the day.
+tldr; i'm just a boy with a linux and an ide, i write eval data, prompt agents to do real engineering work, and build small open-source tools that solve one problem well. no fixed stack; mostly typescript/javascript and python, reaching for next.js or flask depending on the day.
  
-when i'm not building, i'm watching messi and barcelona, following mclaren in f1, or reading around islamic scholarship and aesthetics. right now i'm scoping the final year project around inksolver and refactoring bimo and statebreak toward production-grade quality.
+when i'm not building, i'm watching messi and barcelona, following mercedes in f1, or reading around islamic scholarship and aesthetics. right now i'm scoping the few projects around inksolver and refactoring bimo and statebreak toward production-grade quality.
  
 open to collaborations and interesting problems. feel free to reach out.
 
