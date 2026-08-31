@@ -6,7 +6,9 @@ ai engineer. building with ai. oss developer.
 <a href="https://www.linkedin.com/in/sx4im/"><img src="./assets/icons8-linkedin-48.png" width="22" height="22" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/sx4im"><img src="./assets/icons8-x-48.png" width="22" height="22" alt="X" /></a>&nbsp;
 <a href="mailto:saimshafique.dev@gmail.com"><img src="./assets/icons8-mail-48.png" width="22" height="22" alt="Email" /></a>&nbsp;
-<a href="https://saimshafique.com/assets/resume.pdf"><img src="./assets/icons8-link-48.png" width="22" height="22" alt="Portfolio" /></a>
+<a href="https://saimshafique.com/assets/resume.pdf"><img src="./assets/icons8-link-48.png" width="22" height="22" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.instagram.com/xaimxd"><img src="./assets/icons8-insta-100.png" width="22" height="22" alt="Email" /></a>
+
 
 </p>
 
