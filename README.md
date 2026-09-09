@@ -3,10 +3,10 @@
 ai engineer. building with ai. oss developer.
 
 <p>
-<a href="https://www.linkedin.com/in/sx4im/"><img src="./assets/icons8-linkedin-48.png" width="22" height="22" alt="LinkedIn" /></a>&nbsp;
-<a href="https://x.com/sx4im"><img src="./assets/icons8-x-48.png" width="22" height="22" alt="X" /></a>&nbsp;
-<a href="mailto:saimshafique.dev@gmail.com"><img src="./assets/icons8-mail-48.png" width="22" height="22" alt="Email" /></a>&nbsp;
-<a href="https://www.instagram.com/xaimxd"><img src="./assets/icons8-insta-100.png" width="22" height="22" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/sx4im/"><img src="https://cdn.jsdelivr.net/gh/sx4im/sx4im@main/assets/icons8-linkedin-48.png" width="22" height="22" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/sx4im"><img src="https://cdn.jsdelivr.net/gh/sx4im/sx4im@main/assets/icons8-x-48.png" width="22" height="22" alt="X" /></a>&nbsp;
+<a href="mailto:saimshafique.dev@gmail.com"><img src="https://cdn.jsdelivr.net/gh/sx4im/sx4im@main/assets/icons8-mail-48.png" width="22" height="22" alt="Email" /></a>&nbsp;
+<a href="https://www.instagram.com/xaimxd"><img src="https://cdn.jsdelivr.net/gh/sx4im/sx4im@main/assets/icons8-insta-100.png" width="22" height="22" alt="Instagram" /></a>
 </p>
 
 pakistan-based cs student, ai engineer, and open-source developer. i build coding challenges, llm training/eval data, and agent tooling, and currently work as a full-stack developer at afterquery. outside of that i ship and maintain open-source projects most weekends.
