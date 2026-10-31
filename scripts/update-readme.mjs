@@ -118,7 +118,7 @@ function generateMarkdown(prs, repoMap, topRepos) {
     const [owner] = repo.fullName.split('/');
     const repoPullsUrl = pullsUrl(repo.fullName);
     const avatar = `<a href="${repoPullsUrl}"><img src="https://wsrv.nl/?url=https://github.com/${owner}.png&w=40&h=40&fit=cover&mask=circle&output=png" width="20" height="20" align="absmiddle"></a>`;
-    const arrow = `<a href="${repoPullsUrl}" title="my prs in ${repo.fullName}">↗</a>`;
+    const arrow = `<a href="${repoPullsUrl}" title="my prs in ${repo.fullName}"><img src="https://raw.githubusercontent.com/sx4im/sx4im/main/assets/arrow-up-right.svg" width="14" height="14" alt="↗" align="absmiddle"></a>`;
     return `| ${avatar}&nbsp;<b>${repo.fullName}</b>&nbsp;${arrow} | ${formatStars(repo.stars)} | ${repo.prs.length} |`;
   });
   const table = `${tableHeader}\n${tableRows.join('\n')}`;
