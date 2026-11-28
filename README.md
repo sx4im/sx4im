@@ -74,13 +74,6 @@ pakistan-based cs student, ai engineer, and open-source developer. i build codin
 | <a href="https://github.com/ashhart/TensorFold/pulls?q=is%3Apr+author%3Asx4im+is%3Amerged"><img src="https://wsrv.nl/?url=https://github.com/ashhart.png&w=40&h=40&fit=cover&mask=circle&output=png" width="20" height="20" align="absmiddle"></a>&nbsp;<b>ashhart/TensorFold</b>&nbsp;<a href="https://github.com/ashhart/TensorFold/pulls?q=is%3Apr+author%3Asx4im+is%3Amerged" title="my prs in ashhart/TensorFold"><img src="https://raw.githubusercontent.com/sx4im/sx4im/main/assets/arrow-up-right.svg" width="14" height="14" alt="↗" align="absmiddle"></a> | 2.5k | 3 |
 <!-- oss:end -->
 
-## exp.
-
-- **afterquery experts** — mid-level full-stack developer (current)
-  full-stack development on the odyssey project.
-
-- **shipd by datacurve** — terminus & olympus contributor
-  building coding challenges and llm training/eval data.
 
 
 
